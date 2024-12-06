@@ -1,8 +1,9 @@
 # SINR-DASN
 
-The code and dataset will be shared here.
+## Data Preparation
 
-## Updated on November 18, 2024
+
+# Updated on November 18, 2024
 
 The code and datasets are currently under preparation, with the release scheduled no later than December 20.
 
