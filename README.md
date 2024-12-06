@@ -8,7 +8,9 @@ The _train-clean-100_, _train-clean-360_, _dev-clean_, and _test-clean_ datasets
 
 - ### Gen Room Impulse Response
 
-1. The RIRs for the _Training Data_ and _Development Data_ are generated using `genRIR_ForFrmLvSINR_TrainingData`.
+1. The RIRs for the _Training Data_ and _Development Data_ are generated using `genRIR_ForFrmLvSINR_TrainingData.m`.
+2. The RIRs for the _Test Data_ are generated using `genRIR_ForFrmLvSINR_TestData.m`.
+3. The RIRs for the _Sensor-Selection Data_ are generated using `genRIR_ForFrmLvSINR_NodeSlct_Data.m`.
 
 # Updated on November 18, 2024
 
