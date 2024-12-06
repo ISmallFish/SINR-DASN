@@ -12,6 +12,10 @@ The _train-clean-100_, _train-clean-360_, _dev-clean_, and _test-clean_ datasets
 2. The RIRs for the _Test Data_ are generated using `genRIR_ForFrmLvSINR_TestData.m`.
 3. The RIRs for the _Sensor-Selection Data_ are generated using `genRIR_ForFrmLvSINR_NodeSlct_Data.m`.
 
+- ### Data Generation Procedure
+
+1. To be continuted.
+
 # Updated on November 18, 2024
 
 The code and datasets are currently under preparation, with the release scheduled no later than December 20.
