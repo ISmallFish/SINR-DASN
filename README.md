@@ -1,12 +1,14 @@
 # **SINR-DASN**
 
-
-
 ## Data Preparation
 
-### - Cat Librispeech
+- ### Cat Librispeech
 
 The _train-clean-100_, _train-clean-360_, _dev-clean_, and _test-clean_ datasets in LibriSpeech, which contain speech from the same speakers, are concatenated, resulting in a total of 1252 utterances (251, 921, 40, and 40, respectively).
+
+- ### Gen Room Impulse Response
+
+1. The RIRs for the _Training Data_ and _Development Data_ are generated using `genRIR_ForFrmLvSINR_TrainingData'.
 
 # Updated on November 18, 2024
 
