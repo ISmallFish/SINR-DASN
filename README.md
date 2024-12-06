@@ -1,7 +1,12 @@
-# SINR-DASN
+# **SINR-DASN**
+
+
 
 ## Data Preparation
 
+### - Cat Librispeech
+
+The _train-clean-100_, _train-clean-360_, _dev-clean_, and _test-clean_ datasets in LibriSpeech, which contain speech from the same speakers, are concatenated, resulting in a total of 1252 utterances (251, 921, 40, and 40, respectively).
 
 # Updated on November 18, 2024
 
