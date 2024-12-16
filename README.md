@@ -18,7 +18,7 @@ The _train-clean-100_, _train-clean-360_, _dev-clean_, and _test-clean_ datasets
 
 # Updated on November 18, 2024
 
-The code and datasets are currently under preparation, with the release scheduled no later than December 20.
+The code and datasets are currently under preparation.
 
 (The original plan was to release it before November 20, but I’ve been too busy recently.)
 
