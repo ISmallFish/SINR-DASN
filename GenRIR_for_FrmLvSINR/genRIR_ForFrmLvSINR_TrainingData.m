@@ -103,7 +103,7 @@ for idx_apart = 1:rir_total_nums/rir_total_nums_apart
         phi   = [];
         theta = [];
         for n = 1:size(vec_rs, 2)
-            phi   = [phi   -rand*(pi/4)];
+            phi   = [phi   -rand*(pi/6)];
             theta = [theta  rand*(2*pi)];
         end
         vec_as = vec_rs - [cos(phi).*cos(theta);cos(phi).*sin(theta);sin(phi)];
